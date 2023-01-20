@@ -2,4 +2,6 @@
     font-family: sans-serif;
     background-color: tomato;
     color: blue;
+    position: relative;
+    border-radius: 20px;
 }
